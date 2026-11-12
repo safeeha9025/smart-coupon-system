@@ -1,4 +1,4 @@
-[7:06 pm, 06/10/2026] Akka ☠️☠️☠️: # Smart Elevator System
+ # Smart Elevator System
 
 ## Problem Statement
 
